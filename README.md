@@ -24,3 +24,19 @@ Install packages in requirements.txt with command:
 
 run the app with:
 `python3 app.py`
+
+You can visit the live project here:
+https://hng-c12-stage-0.onrender.com/
+
+it returns:
+
+`{
+  "email": "yonwatodejulius@gmail.com",
+  "current_datetime": "2025-01-29T14:39:04Z",
+  "github_url": "https://github.com/Skibo555/HNG_C12_Stage_0"
+}`
+
+
+HNG backlink:
+
+https://hng.tech/hire/python-developers
