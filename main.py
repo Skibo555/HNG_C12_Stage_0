@@ -26,7 +26,7 @@ def index():
     # Get current date and time
     now = datetime.now()
     my_email = "yonwatodejulius@gmail.com"
-    github_url = "https://github.com/Skibo555"
+    github_url = "https://github.com/Skibo555/HNG_C12_Stage_0"
 
     # Format the date in ISO 8601 format
     iso_timestamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
